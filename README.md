@@ -1,6 +1,8 @@
 # Turner & Townsend Frontend Technical Assessment
 
-Welcome to the Turner & Townsend Frontend Technical Assessment. Thank you so much for your interest in joining our team and for taking the time to apply to this role. The purpose of this assessment is for us to get a good idea of how you approach solving problems. The next stage after submitting a solution is for you to come and meet the team and pair with one of us or talk about your solution.
+Welcome & thank you so much for your interest in joining our team and for taking the time to apply to this role. 
+The purpose of this assessment is for us to get a good idea of how you approach solving problems. 
+The next stage after submitting a solution is for you to come and meet the team and pair with one of us or talk about your solution.
 
 Thank you kindly!
 

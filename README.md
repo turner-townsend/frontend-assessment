@@ -2,35 +2,21 @@
 
 Welcome & thank you so much for your interest in joining our team and for taking the time to apply to this role. 
 The purpose of this assessment is for us to get a good idea of how you approach solving problems. 
-The next stage after submitting a solution is for you to come and meet the team and pair with one of us or talk about your solution.
+The next stage after submitting a solution is for you to come and meet the team and talk about your solution.
 
 Thank you kindly!
 
-## Angular Coding Challenge
-
 To submit a solution, please send us a link to a Git respository. 
 
-### Technologies
+## Details
 
-- Angular
-- HTML
-- SCSS
+- A README with your thoughts, comments and challenges/successes would be well received.
+- Create an Angular application which displays a list of `Playslists` from the following resource `https://portal.organicfruitapps.com/programming-guides/v2/us_en-us/featured-playlists.json`.
 
-### Details
-
-If you have state management experience, it would be lovely if you used that in your solution. 
-
-A human README with your thoughts, comments and challenges/successes would be well received. 
-
-Create an Angular application which has a single page showing a list of playlists with related info. 
-Get data from above endpoint: https://portal.organicfruitapps.com/programming-guides/v2/us_en-us/featured-playlists.json . 
-The displayed list should be filterable by a text input.
-
-The project should include:
-- some basic SCSS styling, using any libraries if you like
-- tests
-
-Consider some optional extras like:
-- Pagination
-- e2e tests
-- Routing
+## We would like to see
+- Clean architecture principles, using functional or OOP principles.
+- Any tech you like, including style, libs and more (we reccomened angular).
+- Clear and a clean approach to styles.
+- Simple markup and use of html5 standards.
+- displaying knoweldge of tests are a plus.
+- Show some modularity in layouts and routing.

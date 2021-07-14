@@ -19,9 +19,9 @@ To submit a solution, please send us a link to a Git respository.
 - Simple markup and use of html5 standards.
 - Show some modularity in layouts and routing.
 
-## Additional things that would be great
-- Displaying knowledge of writing tests (unit/e2e)
+## Would be awesome to see
+- Knowledge of writing tests (unit/e2e)
 - Use of Angular Material components
 - Well formatted code
-- Displaying knowledge of Redux patterns and use a state management tool ex. ngrx
-- If you add eslint to your app and `ng lint` passes
+- Knowledge of Redux patterns and use of a state management tool ex. ngrx
+- Code that passes linting

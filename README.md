@@ -15,8 +15,13 @@ To submit a solution, please send us a link to a Git respository.
 
 ## We would like to see
 - Clean architecture principles, using functional or OOP principles.
-- Any tech you like, including style, libs and more (we reccomened angular).
 - Clear and a clean approach to styles.
 - Simple markup and use of html5 standards.
-- displaying knoweldge of tests are a plus.
 - Show some modularity in layouts and routing.
+
+## Additional things that would be great
+- Displaying knowledge of writing unit tests
+- Use of Angular Material components
+- Well formatted code
+- If you follow Redux patterns by using a store ex. ngrx
+- If you add eslint to your app and `ng lint` passes

@@ -1,27 +1,35 @@
 # Turner & Townsend Frontend Technical Assessment
 
-Welcome & thank you so much for your interest in joining our team and for taking the time to apply to this role. 
-The purpose of this assessment is for us to get a good idea of how you approach solving problems. 
-The next stage after submitting a solution is for you to come and meet the team and talk about your solution.
+Welcome! Thank you for your interest in joining our team and for taking the time to apply to this role. 
 
-Thank you kindly!
+The purpose of this assessment is to help us understand how you approach solving problems. 
 
-To submit a solution, please send us a link to a Git respository. 
+There is no time limit for this assessment - please take as long as you like. 
 
-## Details
+That said, your free time is precious and we don't want to take up too much of it. When setting this assessment, our intention was to provide a task that could be completed in around two hours.
 
-- A README with your thoughts, comments and challenges/successes would be well received.
-- Create an Angular application which displays a list of `Playslists` from the following resource `https://portal.organicfruitapps.com/programming-guides/v2/us_en-us/featured-playlists.json`.
+To submit a solution, please send us a link to a Git respository.
 
-## We would like to see
-- Clean architecture principles, using functional or OOP principles.
-- Clear and a clean approach to styles.
-- Simple markup and use of html5 standards.
-- Show some modularity in layouts and routing.
+## The task
 
-## Would be awesome to see
-- Knowledge of writing tests (unit/e2e)
-- Use of Angular Material components
+Create an Angular application which displays a list of `Playslists` from the following resource:
+
+ `https://portal.organicfruitapps.com/programming-guides/v2/us_en-us/featured-playlists.json`.
+
+
+## What we're looking for
+
+- Clean architecture, using functional or OOP principles
+- A clean approach to styles
+- Simple markup and use of HTML5 standards
+- Some modularity in layouts and routing
+- A README with your thoughts, comments and challenges/successes
+  
+
+## Bonus points for
+
 - Well formatted code
-- Knowledge of Redux patterns and use of a state management tool ex. ngrx
+- Demonstrating knowledge of writing tests (unit/e2e)
+- Use of Angular Material components
+- Demonstrating knowledge of Redux patterns and use of a state management tool (eg ngrx)
 - Code that passes linting

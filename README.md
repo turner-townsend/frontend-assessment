@@ -12,7 +12,7 @@ To submit a solution, please send us a link to a Git respository.
 
 ## The task
 
-Create an Angular application which displays a list of `Playslists` from the following resource:
+Create an Angular application which displays a list of `Playlists` from the following resource:
 
  `https://portal.organicfruitapps.com/programming-guides/v2/us_en-us/featured-playlists.json`.
 
